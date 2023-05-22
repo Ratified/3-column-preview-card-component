@@ -34,6 +34,7 @@ In future projects, I would like to further explore advanced CSS techniques, suc
 
 ## Author
 Website - www.kamungegeorge.live
+
 Frontend Mentor - RatifiedGeorge
 
 ## Acknowledgments
