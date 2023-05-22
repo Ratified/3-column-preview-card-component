@@ -12,8 +12,7 @@ The challenge is to build a 3-column preview card component and make it look as 
 
 
 ### Links
-Solution URL: Add solution URL here
-Live Site URL: Add live site URL here
+Live Site URL: https://ratified.github.io/3-column-preview-card-component/
 
 
 ### Built With
